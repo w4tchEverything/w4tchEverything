@@ -6,5 +6,4 @@
 - Penetration Tester ; Kali Linux OS , Command Line Navigation
 - Git ; Github, VSCode
 - Contact ; VortexD3vs@Gmail.com
-- LinkedIn ; https://www.linkedin.com/in/andres-guerrero-287911211/
 - Director of IT @ Pride In Truth ; https://www.prideintruth.org/
