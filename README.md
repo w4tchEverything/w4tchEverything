@@ -7,3 +7,5 @@
 - Git ; Github, VSCode
 - Contact ; VortexD3vs@Gmail.com
 - Director of IT @ Pride In Truth ; https://www.prideintruth.org/
+
+- Discpline student and teacher 
